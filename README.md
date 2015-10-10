@@ -7,7 +7,7 @@ QDTech Arduino ISP 8266 1.8 inch TFT Library
   S6D02A1 chip.
   
   The initialisation sequence comes from Henning Karlsen's
-  UTFT library: http://henningkarlsen.com
+  UTFT library
 
   Using the hardware SPI pins is highly recommeneded.
   
@@ -18,6 +18,5 @@ QDTech Arduino ISP 8266 1.8 inch TFT Library
   You will also need the newest stock "Adafruit_GFX" library.
   https://github.com/adafruit/Adafruit-GFX-Library
 
-  Includes code from Gilchrist 30/1/2014
-  Norm8332 - 10/9/2015
+  Includes code from Gilchrist 30/1/2014 and Norm8332 - 10/9/2015
 
