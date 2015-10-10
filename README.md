@@ -2,7 +2,7 @@
 
   This is a modification of the Adafruit SPI TFT LCD Arduino 
   library, customised to run Directly on the ESP8266 using hardware (or software) SPI for 
-  the QDTech 1.8" 128x160 pixel LCD board using a Samsung 
+  the QDTech 1.8" 128x160 pixel LCD board that uses a Samsung 
   S6D02A1 chip.
   
   The initialisation sequence comes from Henning Karlsen's
