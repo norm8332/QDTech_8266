@@ -1,5 +1,4 @@
-# QDTech_8266
-QDTech Arduino ISP 8266 1.8 inch TFT Library
+# QDTech Arduino ISP 8266 1.8 inch TFT Library
 
   This is a modification of the Adafruit SPI TFT LCD Arduino 
   library, customised for the ESP8266 and hardware SPI for 
