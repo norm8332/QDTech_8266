@@ -18,6 +18,6 @@
   https://github.com/adafruit/Adafruit-GFX-Library
   
   The initialisation sequence comes from Henning Karlsen's
-  UTFT library
+  UTFT library.
   Includes code from Gilchrist 30/1/2014 and Norm8332 - 10/9/2015
 
