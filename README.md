@@ -10,7 +10,7 @@
 
   Using the hardware SPI pins is highly recommeneded.
   
-  Unzip and change the folder name to "QDTech".
+  Unzip and change the folder name to "QDTech_8266".
   Copy the folder into your
   <arduinosketchfolder>/libraries/ folder.
   
