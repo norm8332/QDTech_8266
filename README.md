@@ -1,7 +1,7 @@
-# QDTech Arduino ISP 8266 1.8 inch TFT Library
+# QDTech Arduino ISP ESP-8266 1.8 inch TFT Library
 
   This is a modification of the Adafruit SPI TFT LCD Arduino 
-  library, customised for the ESP8266 and hardware SPI for 
+  library, customised to run Directly on the ESP8266 using hardware (or software) SPI for 
   the QDTech 1.8" 128x160 pixel LCD board using a Samsung 
   S6D02A1 chip.
   
